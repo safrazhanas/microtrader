@@ -1,4 +1,4 @@
-# Docker in Production using AWS - Microtrader Application
+# Docker in Production using AWS - Microtrader Application 
 
 This is the sample application for the Pluralsight course Docker in Production using AWS.
 
